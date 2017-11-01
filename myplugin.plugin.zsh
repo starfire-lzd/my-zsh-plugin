@@ -2,3 +2,6 @@
 alias caffepy='source activate caffepy'
 # 恢复默认的命令行Python环境
 alias pydefout='source deactivate'
+alias -s gz='tar -xzvf'
+alias -s tgz='tar -xzvf'
+alias -s zip='unzip'
